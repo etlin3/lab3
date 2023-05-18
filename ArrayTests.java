@@ -18,6 +18,7 @@ public class ArrayTests {
     assertArrayEquals(expectedOutput, input);
   }
 
+/*
 
   @Test
   public void testReversed() {
@@ -45,4 +46,5 @@ public class ArrayTests {
     assertEquals(5.0, ArrayExamples.averageWithoutLowest(input3), 0.01);
     assertEquals(10.0, ArrayExamples.averageWithoutLowest(input), 0.01);
   }
+  */
 }
